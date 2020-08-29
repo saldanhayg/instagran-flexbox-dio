@@ -16,5 +16,4 @@ Esse é o repositório referente ao ***BootCamp HTML Web Developer***, da **Digi
 
 <br>
 <br>
-<br>
 ✅   Instrutora Gabriela Pinheiro @SpruceGabriela
